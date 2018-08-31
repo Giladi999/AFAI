@@ -1,5 +1,4 @@
 # AFAI
 Alex Ferguson Artificial Intelligence is a robot that predicts Fantasy Premier League Football results and manages a team accordingly
 
-This is a line from Github
-This is a line from RStudio
+Let's do this!
